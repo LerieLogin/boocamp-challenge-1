@@ -8,7 +8,8 @@ ______
 
 ## Description
 
-    This webpage is supposed to be for a marketing company that needed their page code updated to be more efficient.
+    This webpage is supposed to be for a marketing company that 
+    needed their page code updated to be more efficient.
 
 ## Usage
 
