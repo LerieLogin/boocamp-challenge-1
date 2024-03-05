@@ -27,5 +27,10 @@ ______
 
 ## Link
 
-    Inline-style: 
-![alt text](https://github.com/LerieLogin/bootcamp-challenge-1/blob/main/assets/images/webpage-demo.PNG)
+- https://lerielogin.github.io/bootcamp-challenge-1/
+    
+## Picture Demo
+
+![alt text](assets/images/webpage-demo.PNG)
+
+![alt text](assets/images/webpage-demo-2.PNG)
